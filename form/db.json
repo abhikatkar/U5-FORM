@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "Abhishek Shankarrao Katkar",
+      "age": "24",
+      "address": "Defence colony, Sangamnagar, Khed, Vikasnagar",
+      "salary": "70000",
+      "department": "CS",
+      "marital_state": "unmarried",
+      "id": 1
+    },
+    {
+      "name": "Akash ",
+      "age": "23",
+      "address": "wwfwf",
+      "salary": "60000",
+      "department": "Mechanical",
+      "marital_state": "unmarried",
+      "id": 2
+    }
+  ]
+}
