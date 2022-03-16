@@ -30,7 +30,7 @@ export const Table = ()=>{
         </thead>
         <tbody>
           {item.map((d) => {
-              console.log(d.name)
+            //   console.log(d.name)
             return (
               <tr  className="Details">
                 <td className="name">{d.name}</td>
